@@ -1,16 +1,18 @@
 import React from 'react'
-import {Route, IndexRoute} from 'react-router'
-import Template from '../containers/Template'
+import {Route} from 'react-router'
+import Home from '../containers/Home'
+import Profile from '../containers/Profile'
 
-const createRoutes = () => {
+const Routes = () => {
     return (
-        <Route
-            path='/'
-            component='{Template}'>
-        </Route>
+        <div>
+            <Route exact path='/' component={Home} />
+            <Route exact path='/home' component={Home} />
+            <Route path={'/profile'} component={Profile} />
+        </div>
     )
 }
 
-const Routes = createRoutes()
+// const Routes = createRoutes()
 
 export default Routes

@@ -19,8 +19,9 @@ render (
     <ApolloProvider client={client}>
         <Router basename='/'>
             <div>
-                <Template />
-                <Routes />
+                <Template >
+                    <Routes />
+                </Template>
             </div>
         </Router>
     </ApolloProvider>,

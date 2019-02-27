@@ -3,20 +3,20 @@ import React, { Component } from 'react'
 // import { withRouter } from 'react-router'
 import { withStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
+import NavDrawer from '../components/NavDrawer'
+import {Header, Main} from '../styled/Template'
 
 class Template extends Component {
     render() {
         return (
             <div>
-                <header>
-                    <h1>TicTacTouring</h1>
-                    <Button variant="contained" color="primary" onClick={() => console.log('CLICK')}>
-                        Test Button
-                    </Button>
-                </header>
-                <main>
+                <NavDrawer/>
+                <Header>
+                    TicTacTuring
+                </Header>
+                <Main>
                     {this.props.children}
-                </main>
+                </Main>
             </div>
         )
     }

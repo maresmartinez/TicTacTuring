@@ -1,3 +1,7 @@
+# TicTacTuring 
+
+Created by following along to Carl Peaslee's course on Lynda: [Building and Deploying a Full-Stack React Application](https://www.lynda.com/React-js-tutorials/Building-Deploying-Full-Stack-React-Application/558648-2.html). Different APIs were used since the course used deprecated tools.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

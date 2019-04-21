@@ -1,11 +1,11 @@
 {
-  "main.js": "/TicTacTuring/static/js/main.dfc80616.chunk.js",
-  "main.js.map": "/TicTacTuring/static/js/main.dfc80616.chunk.js.map",
-  "runtime~main.js": "/TicTacTuring/static/js/runtime~main.17c65e9d.js",
-  "runtime~main.js.map": "/TicTacTuring/static/js/runtime~main.17c65e9d.js.map",
-  "static/js/2.17ff9482.chunk.js": "/TicTacTuring/static/js/2.17ff9482.chunk.js",
-  "static/js/2.17ff9482.chunk.js.map": "/TicTacTuring/static/js/2.17ff9482.chunk.js.map",
-  "index.html": "/TicTacTuring/index.html",
-  "precache-manifest.89b8e0ff0e8c3e9e509124371223f8db.js": "/TicTacTuring/precache-manifest.89b8e0ff0e8c3e9e509124371223f8db.js",
-  "service-worker.js": "/TicTacTuring/service-worker.js"
+  "main.js": "/tictacturing/static/js/main.dfc80616.chunk.js",
+  "main.js.map": "/tictacturing/static/js/main.dfc80616.chunk.js.map",
+  "runtime~main.js": "/tictacturing/static/js/runtime~main.952a2480.js",
+  "runtime~main.js.map": "/tictacturing/static/js/runtime~main.952a2480.js.map",
+  "static/js/2.77110ade.chunk.js": "/tictacturing/static/js/2.77110ade.chunk.js",
+  "static/js/2.77110ade.chunk.js.map": "/tictacturing/static/js/2.77110ade.chunk.js.map",
+  "index.html": "/tictacturing/index.html",
+  "precache-manifest.dbb5f944e4dc8492ade9ecba204bb230.js": "/tictacturing/precache-manifest.dbb5f944e4dc8492ade9ecba204bb230.js",
+  "service-worker.js": "/tictacturing/service-worker.js"
 }

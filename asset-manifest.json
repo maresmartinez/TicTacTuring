@@ -1,11 +1,11 @@
 {
-  "main.js": "https://maresmartinez.github.io//TicTacTuring/static/js/main.dfc80616.chunk.js",
-  "main.js.map": "https://maresmartinez.github.io//TicTacTuring/static/js/main.dfc80616.chunk.js.map",
-  "runtime~main.js": "https://maresmartinez.github.io//TicTacTuring/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "https://maresmartinez.github.io//TicTacTuring/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.e8838848.chunk.js": "https://maresmartinez.github.io//TicTacTuring/static/js/2.e8838848.chunk.js",
-  "static/js/2.e8838848.chunk.js.map": "https://maresmartinez.github.io//TicTacTuring/static/js/2.e8838848.chunk.js.map",
+  "main.js": "/static/js/main.dfc80616.chunk.js",
+  "main.js.map": "/static/js/main.dfc80616.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.e8838848.chunk.js": "/static/js/2.e8838848.chunk.js",
+  "static/js/2.e8838848.chunk.js.map": "/static/js/2.e8838848.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.d173e25546cc2dc52ad0f1b8632a0a17.js": "https://maresmartinez.github.io//TicTacTuring/precache-manifest.d173e25546cc2dc52ad0f1b8632a0a17.js",
-  "service-worker.js": "https://maresmartinez.github.io//TicTacTuring/service-worker.js"
+  "precache-manifest.d173e25546cc2dc52ad0f1b8632a0a17.js": "/precache-manifest.d173e25546cc2dc52ad0f1b8632a0a17.js",
+  "service-worker.js": "/service-worker.js"
 }
